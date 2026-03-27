@@ -1,0 +1,16 @@
+{
+    "contenidos": [
+        {
+            "autor": "Gonzalez Ferreira",
+            "file": "Ukelele_cotidiano.pdf",
+            "tema": "Libro",
+            "titulo": "Ukelele cotidiano"
+        },
+        {
+            "autor": "GNGF",
+            "file": "03-BOREAL.mp3",
+            "tema": "Musica",
+            "titulo": "Boreal"
+        }
+    ]
+}
